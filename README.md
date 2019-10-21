@@ -1,2 +1,6 @@
-# codeigniter3metroui4
-CodeIgniter 3 Metro UI 4.0 PHP
+# model
+ CI3 Model with Metro UI 4
+
+ CodeIgniter 3.0 + Metro UI CSS 4.0 
+
+ React.js API REST 
